@@ -19,13 +19,12 @@ The **G3 Architect Website** is a practice project to showcase a **fictional arc
 - **Facts and statistics** about the company  
 - **Sponsors section** to show company partners  
 
-The goal of this project was to **practice structuring a website**, **responsive layout**, and **visual presentation**.
+The goal of this project was to **practice structuring a website** and **visual presentation**.
 
 ---
 
 ## Features
 
-- Fully **responsive design**  
 - Modern and **clean UI**  
 - **Banner** with CTA (Call To Action) button  
 - **Team and features** sections  
@@ -38,8 +37,12 @@ The goal of this project was to **practice structuring a website**, **responsive
 
 ## Screenshots
 
+**Navbar Section**  
+![Navbar Section](<img width="1348" height="115" alt="image" src="https://github.com/user-attachments/assets/98a74ca2-be0a-4170-833d-2f51c757c935" />)  
+
 **Banner Section**  
-![Banner Section](images/bannar.png)  
+![Banner Section](<img width="1337" height="406" alt="image" src="https://github.com/user-attachments/assets/d9bd7522-b0e2-4425-88c7-46f3e0117675" />)  
+
 
 **Team and Features Section**  
 ![Team Section](images/team1.png)  
@@ -56,10 +59,7 @@ The goal of this project was to **practice structuring a website**, **responsive
 
 - **HTML5**  
 - **CSS3**  
-- **Responsive design principles**  
-- **Flexbox** for layout  
 
 ---
 
-## Folder Structure
 
