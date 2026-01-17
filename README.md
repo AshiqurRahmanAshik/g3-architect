@@ -35,25 +35,6 @@ The goal of this project was to **practice structuring a website** and **visual 
 
 ---
 
-## Screenshots
-
-**Navbar Section**  
-![Navbar Section](<img width="1348" height="115" alt="image" src="https://github.com/user-attachments/assets/98a74ca2-be0a-4170-833d-2f51c757c935" />)  
-
-**Banner Section**  
-![Banner Section](<img width="1337" height="406" alt="image" src="https://github.com/user-attachments/assets/d9bd7522-b0e2-4425-88c7-46f3e0117675" />)  
-
-
-**Team and Features Section**  
-![Team Section](images/team1.png)  
-
-**Modern Design Feature Card**  
-![Feature Card](images/architect.png)  
-
-**Our Sponsors Section**  
-![Sponsors](images/sponsors/amazon.png)  
-
----
 
 ## Technologies Used
 
@@ -61,5 +42,15 @@ The goal of this project was to **practice structuring a website** and **visual 
 - **CSS3**  
 
 ---
+
+Author
+
+Md. Ashiqur Rahman Ashik
+
+Learning HTML & CSS
+
+First web development practice project
+
+Passionate about building websites and improving design skills
 
 
